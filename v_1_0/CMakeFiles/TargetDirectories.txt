@@ -1,4 +1,0 @@
-/mnt/c/Nodes/v_1_0/CMakeFiles/Nodes.dir
-/mnt/c/Nodes/v_1_0/CMakeFiles/edit_cache.dir
-/mnt/c/Nodes/v_1_0/CMakeFiles/rebuild_cache.dir
-/mnt/c/Nodes/v_1_0/CMakeFiles/Nodes_autogen.dir
