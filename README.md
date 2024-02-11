@@ -12,4 +12,4 @@
 
 
 ---
-[Ссылка на проект](https://github.com/Beibala05/Nodes.git)
+[Ссылка на проект](https://github.com/Beibala05/VisualScripting.git)
